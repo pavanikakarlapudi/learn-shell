@@ -6,3 +6,4 @@ just learning shell topics
 3.functioning
 
 4.loops
+5.learn do hard work
